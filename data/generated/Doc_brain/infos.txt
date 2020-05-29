@@ -1,0 +1,7 @@
+Neural network.
+Size of Number: 4 bytes
+Input size: 388
+Number of layers: 3
+Layer °1 -> number of neurons: 256, activation: ReLu
+Layer °2 -> number of neurons: 150, activation: ReLu
+Layer °3 -> number of neurons: 136, activation: Softmax

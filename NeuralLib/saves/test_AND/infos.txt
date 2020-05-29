@@ -1,0 +1,5 @@
+Neural network.
+Size of Number: 4 bytes
+Input size: 2
+Number of layers: 1
+Layer °1 -> number of neurons: 1, activation: Sigmoid

@@ -1,0 +1,5 @@
+Inputs.
+Size of Number: 4 bytes
+Input number: 4
+Questions size: 2
+Answers size: 1
